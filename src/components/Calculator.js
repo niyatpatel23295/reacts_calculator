@@ -56,7 +56,7 @@ class HomePage extends Component {
                     <div className="col-md-3">
                         <form>
                             <div className="form-group">
-                                <h1>Login</h1>
+                                <h1>Calculator</h1>
                             </div>
                             <div className="form-group">
                                 <input
